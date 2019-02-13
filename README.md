@@ -29,3 +29,8 @@ cd App
 yarn install
 react-native run-ios
 ```
+
+
+## Example
+
+![Image of Setup](https://github.com/ShahNami/rn-ts-starter/images/screenshot.png)
