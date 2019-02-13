@@ -33,4 +33,4 @@ react-native run-ios
 
 ## Example
 
-![Image of Setup](https://github.com/ShahNami/rn-ts-starter/images/screenshot.png)
+![Image of Setup](https://raw.githubusercontent.com/ShahNami/rn-ts-starter/master/Images/screenshot.png)
