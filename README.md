@@ -9,6 +9,7 @@
 ```
 brew install node
 brew install watchman
+brew install yarn
 ```
 
 ### Install React-Native-Cli
